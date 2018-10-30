@@ -2,7 +2,7 @@ package RoadToBigData
 
 import scala.io.StdIn
 
-object MapperDistinct_v1 {
+object MapperDistinctPhaseOne_v1 {
   def main(args: Array[String]) {
     var line = ""
     while ( {
