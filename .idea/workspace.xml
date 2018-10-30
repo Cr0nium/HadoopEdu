@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1545475e-fb10-4316-9939-0a31ba601ed3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseTwo_v1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/RoadToBigData/ReducerDistinct_v2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinct_v1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseOne_v1.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,25 +41,25 @@
         <counts>
           <entry key="README" value="1" />
           <entry key="Test" value="1" />
-          <entry key="scala" value="82" />
+          <entry key="scala" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Scala" value="83" />
+          <entry key="Scala" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="3590" />
-          <entry key="txt" value="90" />
+          <entry key="scala" value="3805" />
+          <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="90" />
-          <entry key="Scala" value="3590" />
+          <entry key="PLAIN_TEXT" value="91" />
+          <entry key="Scala" value="3805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -91,11 +90,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseTwo_v1.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <caret line="16" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/RoadToBigData/ReducerDistinct_v2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/RoadToBigData/ReducerDistinct_v1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseOne_v1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseTwo_v1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/RoadToBigData/ReducerDistinct_v2.scala" />
       </list>
     </option>
   </component>
@@ -243,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540902669094" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540906721310" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -459,7 +471,7 @@
       <workItem from="1540821329889" duration="10692000" />
       <workItem from="1540838122484" duration="474000" />
       <workItem from="1540881947186" duration="9985000" />
-      <workItem from="1540894769237" duration="7893000" />
+      <workItem from="1540894769237" duration="12311000" />
     </task>
     <task id="LOCAL-00001" summary="Первый commit - добавляю все файлы">
       <created>1540895240718</created>
@@ -496,17 +508,23 @@
       <option name="project" value="LOCAL" />
       <updated>1540902055016</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решил задачку 4.1.7">
+      <created>1540902830623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540902830623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50851000" />
+    <option name="totallyTimeSpent" value="55269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="175" y="-8" width="1753" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30183107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30183107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -515,7 +533,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,7 +569,8 @@
     <MESSAGE value="add workspace.xml" />
     <MESSAGE value="Решил задачку 4.1.5" />
     <MESSAGE value="Решил задачку 4.1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решил задачку 4.1.6" />
+    <MESSAGE value="Решил задачку 4.1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решил задачку 4.1.7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/Test" />
@@ -734,7 +753,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/RoadToBigData/MapperDistinctPhaseTwo_v1.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <caret line="16" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RoadToBigData/ReducerDistinct_v2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
