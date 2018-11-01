@@ -2,7 +2,6 @@
   <library name="sbt: io.netty:netty:3.9.9.Final:jar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.ivy2/cache/io.netty/netty/bundles/netty-3.9.9.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../.ivy2/cache/io.netty/netty/bundles/netty-3.9.9.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
