@@ -23,7 +23,7 @@ object HbaseReadOne {
     val file: RDD[String] = sc.textFile("C:\\Users\\Cronium\\Desktop\\Вводная_BigData\\input_file_1.txt")
     getClass.getResource("input_file_1.txt")
     scala.io.Source.fromFile("input_file_1.txt").getLines()
-    HBaseContext
+
 
 
 
