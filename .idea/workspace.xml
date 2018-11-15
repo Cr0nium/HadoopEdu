@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1545475e-fb10-4316-9939-0a31ba601ed3" name="Default Changelist" comment="Попытка добовления файла построчно в Hbase">
+    <list default="true" id="1545475e-fb10-4316-9939-0a31ba601ed3" name="Default Changelist" comment="новая библиотека">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_annotations_2_0_0_alpha3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_1_6_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Demo/BulkPutExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Demo/HbaseConnectKerberos.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Demo/HbaseTableCreate.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_spark_2_0_0_alpha2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_spark_2_0_0_alpha3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TestTwo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hadoopedu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hadoopedu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/testtwo-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Demo/BulkLoadExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Demo/BulkLoadExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Demo/HbaseReadOne.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Demo/HbaseReadOne.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,6 +70,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TestTwo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1914948085">
@@ -102,13 +151,16 @@
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestTwo" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="HbaseReadOne.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HbaseReadOne.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="561">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#14#53#0" expanded="true" />
               </folding>
@@ -116,47 +168,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+      <file leaf-file-name="HbaseTableCreate.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HbaseTableCreate.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HBaseContext.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/srcs/hbase-spark-2.0.0-alpha2-sources.jar!/org/apache/hadoop/hbase/spark/HBaseContext.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="219" column="66" selection-start-line="219" selection-start-column="66" selection-end-line="219" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OneExtended.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneExtended.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/scoop/apps/oraclejdk/current/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36992">
-              <caret line="2259" column="20" selection-start-line="2259" selection-start-column="20" selection-end-line="2259" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RDD.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/rdd/RDD.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29716">
-              <caret line="1787" column="38" selection-start-line="1787" selection-start-column="38" selection-end-line="1787" selection-end-column="38" />
+            <state relative-caret-position="153">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <element signature="e#14#69#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,10 +256,14 @@
         <option value="$PROJECT_DIR$/src/main/scala/BigDataLabs/TwoBasic.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/BigDataLabs/OneExtended.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/BigDataLabs/StackTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Demo/HBaseSample.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Demo/BulkLoadExample.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Demo/BulkPutExample.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/Demo/HbaseReadOne.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Demo/HbaseConnectKerberos.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Demo/HbaseTableCreate.scala" />
       </list>
     </option>
   </component>
@@ -265,7 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,16 +330,12 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,10 +346,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../rt-ural-sa-hpsa-solution" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -352,12 +371,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.One">
+  <component name="RunManager" selected="Application.HbaseTableCreate">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method>
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="BulkPutExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.BulkPutExample" />
+      <module name="hadoopedu" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HbaseConnectKerberos" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.HbaseConnectKerberos" />
+      <module name="hadoopedu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="HbaseReadOne" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Demo.HbaseReadOne" />
@@ -370,8 +411,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LabTwo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.LabTwo" />
+    <configuration name="HbaseTableCreate" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.HbaseTableCreate" />
       <module name="hadoopedu" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -387,17 +428,6 @@
       <option name="MAIN_CLASS_NAME" value="BigDataLabs.OneExtended" />
       <module name="hadoopedu" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BigDataLabs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="OneExtended$" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BigDataLabs.OneExtended$" />
-      <module name="hadoopedu" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BigDataLabs.*" />
@@ -430,11 +460,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
-      <module name="hadoopedu" />
-      <setting name="vmparams4" value="-Djline.terminal=NONE" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="consoleArgs" value="-usejavacp" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="TestTwo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -472,18 +506,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.One" />
-      <item itemvalue="Scala Console.Scala Console" />
-      <item itemvalue="Application.OneExtended$" />
-      <item itemvalue="Application.LabTwo" />
       <item itemvalue="Application.HbaseReadOne" />
+      <item itemvalue="Application.BulkPutExample" />
+      <item itemvalue="Application.HbaseTableCreate" />
+      <item itemvalue="Application.HbaseConnectKerberos" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.One" />
+        <item itemvalue="Application.HbaseTableCreate" />
+        <item itemvalue="Application.HbaseConnectKerberos" />
         <item itemvalue="Application.HbaseReadOne" />
-        <item itemvalue="Application.LabTwo" />
-        <item itemvalue="Scala Console.Scala Console" />
-        <item itemvalue="Application.OneExtended$" />
+        <item itemvalue="Application.BulkPutExample" />
+        <item itemvalue="Application.One" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +548,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="4010721062" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3785365742" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2428047534" />
       </map>
     </option>
@@ -564,7 +598,8 @@
       <workItem from="1541752192563" duration="906000" />
       <workItem from="1541753920477" duration="15919000" />
       <workItem from="1542007453336" duration="16277000" />
-      <workItem from="1542180279722" duration="471000" />
+      <workItem from="1542180279722" duration="27115000" />
+      <workItem from="1542269431080" duration="9422000" />
     </task>
     <task id="LOCAL-00001" summary="Первый commit - добавляю все файлы">
       <created>1540895240718</created>
@@ -664,11 +699,25 @@
       <option name="project" value="LOCAL" />
       <updated>1542037396828</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="исправил ошибки">
+      <created>1542180811194</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542180811195</updated>
+    </task>
+    <task id="LOCAL-00016" summary="новая библиотека">
+      <created>1542180928989</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542180928989</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130659000" />
+    <option name="totallyTimeSpent" value="166705000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,9 +730,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="190" y="-8" width="1738" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="sbt" order="4" weight="0.329559" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50029534" side_tool="true" weight="0.32952183" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32985386" />
@@ -691,7 +741,7 @@
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32881" />
       <window_info anchor="right" id="Database" order="7" weight="0.14600715" />
-      <window_info id="Structure" order="1" sideWeight="0.5020877" side_tool="true" visible="true" weight="0.3545888" />
+      <window_info id="Structure" order="1" sideWeight="0.50621116" side_tool="true" weight="0.3545888" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39874738" />
@@ -701,14 +751,14 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32881" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5741127" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35177454" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49970466" weight="0.32881" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49791232" visible="true" weight="0.3545888" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937888" visible="true" weight="0.35876042" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32881" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="5" sideWeight="0.5031056" side_tool="true" weight="0.3545888" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -716,41 +766,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32881" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32881" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5741127" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49970466" weight="0.32881" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50029534" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32776618" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32881" />
-      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32985386" />
-      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32985386" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37008342" />
-      <window_info anchor="right" id="Database" order="7" weight="0.14600715" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32985386" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -810,69 +825,16 @@
     <MESSAGE value="Удалось запустить Spark 1.6 &#10;WordCount Success" />
     <MESSAGE value="Подключился к базе Hbase &#10;Создал таблицу" />
     <MESSAGE value="Попытка добовления файла построчно в Hbase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Попытка добовления файла построчно в Hbase" />
+    <MESSAGE value="исправил ошибки" />
+    <MESSAGE value="новая библиотека" />
+    <option name="LAST_COMMIT_MESSAGE" value="новая библиотека" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneBasic.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneExtended.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneBasic.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/TwoBasic.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/Test" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/One.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/Two.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/Two/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/Two/Two.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Impatient/Two/Seven.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/Karrier.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1046,69 +1008,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala">
+    <entry file="jar://$USER_HOME$/scoop/apps/oraclejdk/current/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneBasic.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HBaseSample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="2259" column="20" selection-start-line="2259" selection-start-column="20" selection-end-line="2259" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-1.6.3-sources.jar!/org/apache/spark/rdd/RDD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29716">
+        <state relative-caret-position="170">
           <caret line="1787" column="38" selection-start-line="1787" selection-start-column="38" selection-end-line="1787" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/scoop/apps/oraclejdk/current/src.zip!/java/lang/Class.java">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-common/srcs/hbase-common-2.1.1-sources.jar!/org/apache/hadoop/hbase/TableName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36992">
-          <caret line="2259" column="20" selection-start-line="2259" selection-start-column="20" selection-end-line="2259" selection-end-column="20" />
+        <state relative-caret-position="311">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/jars/hbase-spark-1.2.0-cdh5.15.0.jar!/org/apache/hadoop/hbase/spark/HBaseContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/srcs/hbase-spark-2.0.0-alpha3-sources.jar!/org/apache/hadoop/hbase/spark/HBaseContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="172" column="47" selection-start-line="172" selection-start-column="47" selection-end-line="172" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/srcs/hbase-spark-2.0.0-alpha2-sources.jar!/org/apache/hadoop/hbase/spark/HBaseContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="219" column="6" selection-start-line="219" selection-start-column="6" selection-end-line="219" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/BulkLoadExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/jars/hbase-spark-2.0.0-alpha3.jar!/META-INF/DEPENDENCIES">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/jars/hbase-spark-1.2.0-cdh5.15.0.jar!/META-INF/maven/org.apache.hbase/hbase-spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/jars/hbase-spark-2.0.0-alpha3.jar!/META-INF/maven/org.apache.hbase/hbase-spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/jars/hbase-spark-2.0.0-alpha3.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hbase/hbase-spark/srcs/hbase-spark-2.0.0-alpha2-sources.jar!/org/apache/hadoop/hbase/spark/HBaseContext.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/LabTwo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="219" column="66" selection-start-line="219" selection-start-column="66" selection-end-line="219" selection-end-column="66" />
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TransformedSaveFile/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneBasic.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneExtended.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HBaseSample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HbaseConnectKerberos.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/BulkPutExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HbaseReadOne.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#14#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BigDataLabs/OneExtended.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo/HbaseTableCreate.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="e#14#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
