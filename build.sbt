@@ -15,7 +15,12 @@ libraryDependencies ++= Seq(
   "com.fasterxml.jackson.module" % "jackson-module-scala_2.11" % "2.9.5",
   "com.fasterxml.jackson.core" % "jackson-databind" % "2.8.11",
   "org.apache.hbase" % "hbase-spark" % "2.0.0-alpha3",
-  "org.apache.spark" % "spark-streaming_2.11" % "1.6.3"
+  "org.apache.spark" % "spark-streaming_2.11" % "1.6.3",
+  "org.apache.hbase" % "hbase-hadoop-compat" % "1.2.0",
+  "org.apache.hbase" % "hbase-hadoop2-compat" % "1.2.0",
+  "org.apache.hbase" % "hbase-metrics" % "1.4.0",
+  "org.apache.hbase" % "hbase-metrics-api" % "1.4.0",
+  "org.apache.hbase" % "hbase-zookeeper" % "2.1.1"
 )
 
 

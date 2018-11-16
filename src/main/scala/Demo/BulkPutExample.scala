@@ -30,9 +30,10 @@ object BulkPutExample {
     val conf = HBaseConfiguration.create();
     conf.addResource(new Path("/etc/hbase/conf/core-site.xml"));
     conf.addResource(new Path("/etc/hbase/conf/hbase-site.xml"));
-    conf.set("hbase.master", "192.168.6.20:7180")
+    conf.set("hbase.zookeeper.quorum", "192.168.100.214,192.168.100.215,192.168.100.216")
+    conf.set("hbase.zookeeper.property.clientPort", "2181")
+    conf.set("hbase.master", "192.168.100.215:60000")
     conf.setInt("timeout", 60000)
-    conf.set("hbase.zookeeper.quorum", "192.168.6.21")
     val hbaseContext = new HBaseContext(sc, conf);
 
     //Now give the rdd, table name, and a function that will convert a RDD record to a put, and finally

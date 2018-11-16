@@ -23,6 +23,7 @@ object HbaseTableCreate {
     val hTableDesc = new HTableDescriptor(TableName.valueOf("TestWordCount"))
     hTableDesc.addFamily(new HColumnDescriptor("data"))
     admin.createTable(hTableDesc)
+
     sc.stop()
   }
 }
