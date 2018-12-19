@@ -23,8 +23,8 @@ object BulkLoadExample {
     val columnFamilyName = "data"
     val qualifierName = "text"
 
-    val file = sc.textFile("C:\\Users\\timur\\Desktop\\Вводная_BigData\\input_file_1.txt")
-    val transformed = file.map(v => {
+    val file = sc.textFile("C:\\Users\\Cronium\\Desktop\\Вводная_BigData\\input_file_1.txt")
+    val transformed = file.map(f = v => {
       val key = Bytes.toBytes(v.hashCode())
       val kv = new KeyValue(key,
         Bytes.toBytes(columnFamilyName),

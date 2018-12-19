@@ -18,7 +18,7 @@ object LabTwo {
     p.addColumn(Bytes.toBytes("Words"), Bytes.toBytes("YEAR"),Bytes.toBytes("2017"))
     table.put(p)
 
-   /* val scan = new Scan()
+    val scan = new Scan()
     val scanner : ResultScanner = table.getScanner(scan)
     println("got scanner...")
     val g = new Get(Bytes.toBytes("row1"))
@@ -29,6 +29,6 @@ object LabTwo {
     val year = Bytes.toString(result.getValue(Bytes.toBytes("0"),Bytes.toBytes("YEAR")))
 
     println("row1 " + "name: " + name + " course: " + course + " year:" + year);
-*/
+
   }
 }

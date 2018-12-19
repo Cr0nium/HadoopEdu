@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestTwo.iml" filepath="$PROJECT_DIR$/.idea/modules/TestTwo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hadoopedu.iml" filepath="$PROJECT_DIR$/.idea/modules/hadoopedu.iml" />
+>>>>>>> 0fe6c8c5b41e2790e57b318473a24e9c6c7ede97
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hadoopedu-build.iml" filepath="$PROJECT_DIR$/.idea/modules/hadoopedu-build.iml" />
     </modules>
   </component>
